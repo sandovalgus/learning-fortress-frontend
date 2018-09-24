@@ -33,6 +33,7 @@ export class DatabaseDoc {
     _ref?: DocumentReference;
 }
 
+// line break 
 export class Comp {
     name: string;
     component: any;
